@@ -43,16 +43,6 @@ h1, h2, h3, h4, h5, h6 {font-family: "Lato",Helvetica,Arial,Lucida,sans-serif;}
 body, input, textarea, select {font-family: "Merriweather",Georgia,"Times New Roman",serif;}
 #main-header, #et-top-navigation {font-family: "Proza Libre",Helvetica,Arial,Lucida,sans-serif;}
 .logo_container {margin: 10px 20px;}
-#footer-bottom {display: none;}
 .custom-menu-button a {color: #fff !important;font-weight: 900 !important;}
-.et_pb_section_0 {padding-top: 0px;padding-bottom: 0px;}
-.et_pb_row_0.et_pb_row {padding-top: 0px;padding-bottom: 0px;}
-.et_pb_row_0 {max-width: 100% !important;width: 100%;}
-.et_pb_column_0 {background-image: linear-gradient(180deg,rgba(0,0,0,.6) 0%,rgba(0,0,0,.6) 100%),url("https://galvantrixprojects.github.io/hotelclover/wp-content/uploads/2019/02/home-slider-image-2.jpg");background-color: initial;padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px;display: flex;align-items: center;}
-.et_pb_text_0 h2 {font-weight: 700;font-size: 48px;text-align: left;}
-.et_pb_text_0 {max-width: 450px;display: flex;justify-content: center;}
-.et_pb_column_1 {background-color: #fff;padding-top: 80px;padding-right: 40px;padding-bottom: 80px;padding-left: 40px;display: flex;justify-content: center;}
-.et_pb_code_0 {width: 70%;}
-.et_pb_row_1 {background-color: #333;max-width: 100% !important;width: 100%;}
-.et_pb_divider_0:before {border-top-color: #7ebec5;border-top-width: 0px;}
-.et_pb_divider_0 {height: 100px;}
+#et-top-navigation {max-width: 800px;margin: auto;}
+#footer-bottom .et-social-icons {display: none;}

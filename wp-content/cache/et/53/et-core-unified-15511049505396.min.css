@@ -43,33 +43,22 @@ h1, h2, h3, h4, h5, h6 {font-family: "Lato",Helvetica,Arial,Lucida,sans-serif;}
 body, input, textarea, select {font-family: "Merriweather",Georgia,"Times New Roman",serif;}
 #main-header, #et-top-navigation {font-family: "Proza Libre",Helvetica,Arial,Lucida,sans-serif;}
 .logo_container {margin: 10px 20px;}
-#footer-bottom {display: none;}
 .custom-menu-button a {color: #fff !important;font-weight: 900 !important;}
+#et-top-navigation {max-width: 800px;margin: auto;}
+#footer-bottom .et-social-icons {display: none;}
 div.et_pb_section.et_pb_section_0 {background-image: linear-gradient(180deg,rgba(0,0,0,.5) 0%,rgba(0,0,0,.5) 100%),url("https://galvantrixprojects.github.io/hotelclover/wp-content/uploads/2019/02/home-slider-image-3.jpg") !important;}
-.et_pb_blurb_5 {box-shadow: 0px 2px 18px 0px rgba(0,0,0,.3);}
-.et_pb_blurb_11.et_pb_blurb {background-image: linear-gradient(180deg,rgba(0,0,0,.6) 0%,rgba(0,0,0,.6) 100%),url("https://galvantrixprojects.github.io/hotelclover/wp-content/uploads/2019/02/home-slider-image-3.jpg");border-radius: 8px 8px 8px 8px;overflow: hidden;padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;width: 100%;}
-.et_pb_blurb_10 {box-shadow: 0px 2px 18px 0px rgba(0,0,0,.3);}
-.et_pb_blurb_10.et_pb_blurb {background-image: linear-gradient(180deg,rgba(0,0,0,.6) 0%,rgba(0,0,0,.6) 100%),url("https://galvantrixprojects.github.io/hotelclover/wp-content/uploads/2019/02/home-slider-image-3.jpg");border-radius: 8px 8px 8px 8px;overflow: hidden;padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;width: 100%;}
-.et_pb_blurb_9 {box-shadow: 0px 2px 18px 0px rgba(0,0,0,.3);}
-.et_pb_blurb_9.et_pb_blurb {background-image: linear-gradient(180deg,rgba(0,0,0,.6) 0%,rgba(0,0,0,.6) 100%),url("https://galvantrixprojects.github.io/hotelclover/wp-content/uploads/2019/02/home-slider-image-3.jpg");border-radius: 8px 8px 8px 8px;overflow: hidden;padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;width: 100%;}
-.et_pb_blurb_8 {box-shadow: 0px 2px 18px 0px rgba(0,0,0,.3);}
-.et_pb_blurb_8.et_pb_blurb {background-image: linear-gradient(180deg,rgba(0,0,0,.6) 0%,rgba(0,0,0,.6) 100%),url("https://galvantrixprojects.github.io/hotelclover/wp-content/uploads/2019/02/home-slider-image-3.jpg");border-radius: 8px 8px 8px 8px;overflow: hidden;padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;width: 100%;}
-.et_pb_blurb_7 {box-shadow: 0px 2px 18px 0px rgba(0,0,0,.3);}
-.et_pb_blurb_7.et_pb_blurb {background-image: linear-gradient(180deg,rgba(0,0,0,.6) 0%,rgba(0,0,0,.6) 100%),url("https://galvantrixprojects.github.io/hotelclover/wp-content/uploads/2019/02/home-slider-image-3.jpg");border-radius: 8px 8px 8px 8px;overflow: hidden;padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;width: 100%;}
-.et_pb_blurb_6 {box-shadow: 0px 2px 18px 0px rgba(0,0,0,.3);}
-.et_pb_blurb_6.et_pb_blurb {background-image: linear-gradient(180deg,rgba(0,0,0,.6) 0%,rgba(0,0,0,.6) 100%),url("https://galvantrixprojects.github.io/hotelclover/wp-content/uploads/2019/02/home-slider-image-3.jpg");border-radius: 8px 8px 8px 8px;overflow: hidden;padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;width: 100%;}
-.et_pb_blurb_5.et_pb_blurb {background-image: linear-gradient(180deg,rgba(0,0,0,.6) 0%,rgba(0,0,0,.6) 100%),url("https://galvantrixprojects.github.io/hotelclover/wp-content/uploads/2019/02/home-slider-image-3.jpg");border-radius: 8px 8px 8px 8px;overflow: hidden;padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;width: 100%;}
 .et_pb_row_0.et_pb_row {padding-top: 50px;padding-right: 50px;padding-bottom: 50px;padding-left: 50px;}
-.et_pb_blurb_4 {box-shadow: 0px 2px 18px 0px rgba(0,0,0,.3);}
-.et_pb_blurb_4.et_pb_blurb {background-image: linear-gradient(180deg,rgba(0,0,0,.6) 0%,rgba(0,0,0,.6) 100%),url("https://galvantrixprojects.github.io/hotelclover/wp-content/uploads/2019/02/home-slider-image-3.jpg");border-radius: 8px 8px 8px 8px;overflow: hidden;padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;width: 100%;}
-.et_pb_blurb_3 {box-shadow: 0px 2px 18px 0px rgba(0,0,0,.3);}
-.et_pb_blurb_3.et_pb_blurb {background-image: linear-gradient(180deg,rgba(0,0,0,.6) 0%,rgba(0,0,0,.6) 100%),url("https://galvantrixprojects.github.io/hotelclover/wp-content/uploads/2019/02/home-slider-image-3.jpg");border-radius: 8px 8px 8px 8px;overflow: hidden;padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;width: 100%;}
-.et_pb_blurb_2 {box-shadow: 0px 2px 18px 0px rgba(0,0,0,.3);}
-.et_pb_blurb_2.et_pb_blurb {background-image: linear-gradient(180deg,rgba(0,0,0,.6) 0%,rgba(0,0,0,.6) 100%),url("https://galvantrixprojects.github.io/hotelclover/wp-content/uploads/2019/02/home-slider-image-3.jpg");border-radius: 8px 8px 8px 8px;overflow: hidden;padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;width: 100%;}
-.et_pb_blurb_1 {box-shadow: 0px 2px 18px 0px rgba(0,0,0,.3);}
-.et_pb_blurb_1.et_pb_blurb {background-image: linear-gradient(180deg,rgba(0,0,0,.6) 0%,rgba(0,0,0,.6) 100%),url("https://galvantrixprojects.github.io/hotelclover/wp-content/uploads/2019/02/home-slider-image-3.jpg");border-radius: 8px 8px 8px 8px;overflow: hidden;padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;width: 100%;}
-.et_pb_blurb_0 {box-shadow: 0px 2px 18px 0px rgba(0,0,0,.3);}
-.et_pb_blurb_0.et_pb_blurb {background-image: linear-gradient(180deg,rgba(0,0,0,.6) 0%,rgba(0,0,0,.6) 100%),url("https://galvantrixprojects.github.io/hotelclover/wp-content/uploads/2019/02/home-slider-image-3.jpg");border-radius: 8px 8px 8px 8px;overflow: hidden;padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;width: 100%;}
-.et_pb_row_1 {max-width: 500px !important;}
 .et_pb_text_0 h2 {font-size: 48px;text-align: center;}
-.et_pb_blurb_11 {box-shadow: 0px 2px 18px 0px rgba(0,0,0,.3);}
+.et_pb_row_1 {max-width: 500px !important;}
+.et_pb_blurb_0.et_pb_blurb {background-image: linear-gradient(180deg,rgba(0,0,0,.6) 0%,rgba(0,0,0,.6) 100%),url("https://galvantrixprojects.github.io/hotelclover/wp-content/uploads/2019/02/home-slider-image-3.jpg");border-radius: 8px 8px 8px 8px;overflow: hidden;width: 100%;}
+.et_pb_blurb_0 {box-shadow: 0px 2px 18px 0px rgba(0,0,0,.3);}
+.et_pb_blurb_1.et_pb_blurb {background-image: linear-gradient(180deg,rgba(0,0,0,.6) 0%,rgba(0,0,0,.6) 100%),url("https://galvantrixprojects.github.io/hotelclover/wp-content/uploads/2019/02/home-slider-image-3.jpg");border-radius: 8px 8px 8px 8px;overflow: hidden;width: 100%;}
+.et_pb_blurb_1 {box-shadow: 0px 2px 18px 0px rgba(0,0,0,.3);}
+.et_pb_blurb_2.et_pb_blurb {background-image: linear-gradient(180deg,rgba(0,0,0,.6) 0%,rgba(0,0,0,.6) 100%),url("https://galvantrixprojects.github.io/hotelclover/wp-content/uploads/2019/02/home-slider-image-3.jpg");border-radius: 8px 8px 8px 8px;overflow: hidden;width: 100%;}
+.et_pb_blurb_2 {box-shadow: 0px 2px 18px 0px rgba(0,0,0,.3);}
+.et_pb_blurb_3.et_pb_blurb {background-image: linear-gradient(180deg,rgba(0,0,0,.6) 0%,rgba(0,0,0,.6) 100%),url("https://galvantrixprojects.github.io/hotelclover/wp-content/uploads/2019/02/home-slider-image-3.jpg");border-radius: 8px 8px 8px 8px;overflow: hidden;width: 100%;}
+.et_pb_blurb_3 {box-shadow: 0px 2px 18px 0px rgba(0,0,0,.3);}
+.et_pb_blurb_4.et_pb_blurb {background-image: linear-gradient(180deg,rgba(0,0,0,.6) 0%,rgba(0,0,0,.6) 100%),url("https://galvantrixprojects.github.io/hotelclover/wp-content/uploads/2019/02/home-slider-image-3.jpg");border-radius: 8px 8px 8px 8px;overflow: hidden;width: 100%;}
+.et_pb_blurb_4 {box-shadow: 0px 2px 18px 0px rgba(0,0,0,.3);}
+.et_pb_blurb_5.et_pb_blurb {background-image: linear-gradient(180deg,rgba(0,0,0,.6) 0%,rgba(0,0,0,.6) 100%),url("https://galvantrixprojects.github.io/hotelclover/wp-content/uploads/2019/02/home-slider-image-3.jpg");border-radius: 8px 8px 8px 8px;overflow: hidden;width: 100%;}
+.et_pb_blurb_5 {box-shadow: 0px 2px 18px 0px rgba(0,0,0,.3);}
