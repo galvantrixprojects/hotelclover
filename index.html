@@ -3,8 +3,8 @@
 <head>
 	<meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-	
-
+	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<script type="text/javascript" src="responsiveslides.min.js"></script>
 	<script type="text/javascript">
 		document.documentElement.className = 'js';
 	</script>
@@ -87,6 +87,13 @@
 					<div id="et-boc" class="et-boc">
 			
 			<div class="et_builder_inner_content et_pb_gutters3">
+				<div id="container" style="margin-top: 80px;">
+            <ul class="rslides" style="padding:0px;">
+                <li><img src="https://galvantrixprojects.github.io/hotelclover/wp-content/uploads/2019/02/home-slider-image-1.jpg" alt=""></li>
+                <li><img src="https://galvantrixprojects.github.io/hotelclover/wp-content/uploads/2019/02/home-slider-image-2.jpg" alt=""></li>
+                <li><img src="https://galvantrixprojects.github.io/hotelclover/wp-content/uploads/2019/02/home-slider-image-3.jpg" alt=""></li>
+            </ul>
+        </div>
 				<div class="et_pb_section et_pb_section_0 et_section_regular">
 				
 				
@@ -275,7 +282,64 @@ var et_pb_custom = {"ajaxurl":"https:\/\/galvantrixprojects.github.io\/hotelclov
 var et_pb_box_shadow_elements = [];
 /* ]]> */
 </script>
+<script>
+        $(function() {
+            $(".rslides").responsiveSlides({ nav: true, navContainer: ".rslides1" });
+        });
+        </script>
 <script type="text/javascript" src="https://galvantrixprojects.github.io/hotelclover/wp-content/themes/Divi-master/js/custom.min.js"></script>
 <script type="text/javascript" src="https://galvantrixprojects.github.io/hotelclover/wp-content/themes/Divi-master/core/admin/js/common.js"></script>
-<style id="et-core-unified-cached-inline-styles-2">.et_pb_image_0{text-align:center}.et_pb_text_0 h2{font-size:36px;color:#a98c00!important}.et_pb_text_1{font-size:20px}.et_pb_section_1.et_pb_section{background-color:#a78c00!important}.et_pb_signup_0.et_pb_subscribe{padding-top:0px!important;padding-right:0px!important;padding-bottom:0px!important;padding-left:0px!important}.et_pb_social_media_follow_network_0 a.icon{background-color:#3b5998!important}.et_pb_social_media_follow_network_1 a.icon{background-color:#ea2c59!important}.et_pb_row_0.et_pb_row{margin-left:auto!important;margin-right:auto!important}.et_pb_fullwidth_slider_0 .et_pb_slide{min-height:100vh!important}</style></body>
+<style id="et-core-unified-cached-inline-styles-2">.et_pb_image_0{text-align:center}.et_pb_text_0 h2{font-size:36px;color:#a98c00!important}.et_pb_text_1{font-size:20px}.et_pb_section_1.et_pb_section{background-color:#a78c00!important}.et_pb_signup_0.et_pb_subscribe{padding-top:0px!important;padding-right:0px!important;padding-bottom:0px!important;padding-left:0px!important}.et_pb_social_media_follow_network_0 a.icon{background-color:#3b5998!important}.et_pb_social_media_follow_network_1 a.icon{background-color:#ea2c59!important}.et_pb_row_0.et_pb_row{margin-left:auto!important;margin-right:auto!important}.et_pb_fullwidth_slider_0 .et_pb_slide{min-height:100vh!important}.rslides {
+    position: relative;
+    list-style: none;
+    overflow: hidden;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.rslides li {
+    -webkit-backface-visibility: hidden;
+    position: absolute;
+    display: none;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+
+.rslides li:first-child {
+    position: relative;
+    display: block;
+    float: left;
+}
+
+.rslides img {
+    display: block;
+    height: calc(0.5625 * 100vw);
+    float: left;
+    width: 100%;
+    border: 0;
+}
+
+.rslides1_nav {
+    position: absolute;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    top: 50%;
+    left: 0;
+    z-index: 99;
+    opacity: 0.7;
+    text-indent: -9999px;
+    overflow: hidden;
+    text-decoration: none;
+    height: 61px;
+    width: 38px;
+    background: transparent url("themes.gif") no-repeat left top;
+    margin-top: -45px;
+}
+
+.rslides1_nav.next {
+    left: auto;
+    background-position: right top;
+    right: 0;
+}</style></body>
 </html>
